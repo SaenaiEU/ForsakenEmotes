@@ -1,5 +1,5 @@
 /**
- * Created by Joshua on 11/6/2016.
+ * Created by Saenai on 11/9/2018.
  */
 
 var numStr = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
